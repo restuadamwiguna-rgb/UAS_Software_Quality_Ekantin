@@ -1,0 +1,43 @@
+Karena V(G) = 10 maka minimal terdapat 10 jalur independen.
+
+Path 1
+Username kosong
+1-2-3-15-16
+
+Path 2
+Username kurang dari 3 karakter
+1-2-3-4-15-16
+
+Path 3
+Username lebih dari 20 karakter
+1-2-3-4-5-15-16
+
+Path 4
+Password kosong
+1-2-3-4-5-6-15-16
+
+Path 5
+Password kurang dari 6 karakter
+1-2-3-4-5-6-7-15-16
+
+Path 6
+Password lebih dari 20 karakter
+1-2-3-4-5-6-7-8-15-16
+
+Path 7
+Username tidak ditemukan
+1-2-3-4-5-6-7-8-9-10-15-16
+
+Path 8
+Password salah
+1-2-3-4-5-6-7-8-9-10-11-15-16
+
+Path 9
+Login Admin
+1-2-3-4-5-6-7-8-9-10-11-12-16
+
+Path 10
+Login Kasir/User
+1-2-3-4-5-6-7-8-9-10-11-13-16
+atau
+1-2-3-4-5-6-7-8-9-10-11-14-16
