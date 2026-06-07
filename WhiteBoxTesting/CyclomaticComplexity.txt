@@ -1,0 +1,18 @@
+3 Username kosong?
+4 Username < 3 ?
+5 Username > 20 ?
+
+6 Password kosong?
+7 Password < 6 ?
+8 Password > 20 ?
+
+9 Validasi sukses?
+10 User ditemukan?
+11 Password cocok?
+
+Total : 9 Predicate Node
+Maka  : V(G) = 9 + 1
+
+V(G)=9+1=10
+
+Hasil : Cyclomatic Complexity = 10
